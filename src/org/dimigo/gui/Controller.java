@@ -31,7 +31,7 @@ public class Controller implements Initializable{
         @FXML private Button bntSrc;
         @FXML private ListView<String> listView;
         @FXML private ImageView photo;
-
+    //안녕하세요
         @Override
         public void initialize(URL location, ResourceBundle resources) {
             cbClass1.getItems().addAll("2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012",
